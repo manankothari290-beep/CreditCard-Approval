@@ -1,0 +1,14 @@
+# Ignore everything in the main project folder (large files)
+Credit_Card_Approval_Project/
+
+# OS files
+.DS_Store
+.git
+
+# Virtual environment
+.venv/
+
+# Large data files
+*.csv
+*.mp4
+*.ipynb
