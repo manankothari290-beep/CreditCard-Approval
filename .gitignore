@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# OS files
+.DS_Store
+
+# Large data files (GitHub has a 100MB file size limit)
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
